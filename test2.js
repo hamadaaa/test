@@ -21,7 +21,7 @@ function person() {
     var surName = "Ismail";
     var location = "lviv";
 
-};
+}
 
 var person2 = new person();
 person2.getName();
